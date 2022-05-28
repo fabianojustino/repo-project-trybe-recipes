@@ -39,8 +39,7 @@
 }
 
 .filters input {
-
-  /* display: none; */
+ display: none;
 }
 
 /* referência https://jsfiddle.net/layercomp/12y7qeru/ */
