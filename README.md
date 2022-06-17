@@ -67,6 +67,7 @@ Metodologia ágil utilizada:
 ♦️ Créditos:
 ---
 Foi incrível desenvolver esse site, além é claro do compartilhamento de conhecimento entre os membros:
+
 Antonio Fortis, Matheus Henrique e Leônidas Ferreira
 
 
