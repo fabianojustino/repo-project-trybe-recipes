@@ -1,4 +1,4 @@
-📌 Projeto Trybe Warts
+📌 Projeto Trybe Recipes
 ---
 
 Último projeto de Front-End em equipe, foram 87 requisitos, todos com um certo grau de complexidade; tínhamos 9 dias para terminá-lo e o fizemos em 5.
